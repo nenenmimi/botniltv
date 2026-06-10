@@ -1,6 +1,11 @@
 {
   "channels": [
-    {"name": "CX 1", "url": "https://tvsen7.aynaott.com/tsports-hd/index.m3u8"},
-    {"name": "CX 2", "url": "https://tvsen7.aynaott.com/tsportsfhd/index.m3u8"}
+    {"name": "CX 1 T1", "url": "https://tvsen7.aynaott.com/tsports-hd/index.m3u8"},
+    {"name": "CX 2 T2", "url": "https://tvsen7.aynaott.com/tsportsfhd/index.m3u8"},
+    {"name": "CX 3 BT 1", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709.m3u8"},
+    {"name": "CX 4 BT 2", "url": "https://tvsen6.aynaott.com/btvhd/index.m3u8"},
+    {"name": "CX 6 SM 1", "url": "https://tvsen6.aynaott.com/somoytv/index.m3u8"},
+    {"name": "CX 7 SM 2", "url": "https://bozztv.com/rongo/rongo-somoy/index.m3u8"},
+    {"name": "CX 8 SM 3", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8"}
   ]
 }
